@@ -11,7 +11,7 @@
 
 <div>
 <br>
-🌵 I'm a 22 year old student, currently in the second year of my Master's degree in Computer Engineering @ University of Minho.
+🌵 I'm a 22 year old student, currently in the second year of Master's degree in Computer Engineering @ University of Minho.
 
 
 
