@@ -24,7 +24,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### Glad to see you here! 😃 &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=ConstancaElias.ConstancaElias)
+<!-- ### Glad to see you here! 😃 &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=ConstancaElias.ConstancaElias) -->
 
 
 
