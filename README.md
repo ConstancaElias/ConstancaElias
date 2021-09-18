@@ -11,21 +11,9 @@
 
 <div>
 <br>
-🌵 I'm a 22 year old student, currently in the second year of Master's degree in Computer Engineering @ University of Minho.
+🌵 I'm a 22 year old student who is studying for a Master's degree in Computer Engineering @ University of Minho.
 
-
-
-<!-- - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ### Glad to see you here! 😃 &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=ConstancaElias.ConstancaElias) -->
-
+  
 <br>
 
 <br>
